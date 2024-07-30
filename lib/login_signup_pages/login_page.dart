@@ -171,7 +171,7 @@ class LoginPage extends StatelessWidget{
                       ],
                     ),
                   ),
-                  SizedBox(height: 150,),
+                  SizedBox(height: 80,),
                   ///Don't have an Account? Sign Up...
                   Container(
                     margin: EdgeInsets.only(bottom: 10),

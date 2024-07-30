@@ -111,7 +111,7 @@ class SignUpPage extends StatelessWidget{
                   ),
                 ),
               ),
-              SizedBox(height: 200,),
+              SizedBox(height: 80,),
               ///Already  have an Account? Login...
               Container(
                 margin: EdgeInsets.only(bottom: 10),
